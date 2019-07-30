@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Slave Bot
 
-You can use the [editor on GitHub](https://github.com/Eclypse2D/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is the official website of Slave Bot. For now, this website will be blank, but don't worry, we are adding dashboard and other features soon! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Don't you know who I am? I am a Discord bot coded by: Slave#0468! Feel free to invite me to your server.
 
 ### Markdown
 
